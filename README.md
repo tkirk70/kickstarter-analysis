@@ -5,3 +5,5 @@
 ## Excel Sheet 'Parent Categories'
 [data-1-1-3-StarterBooka - Copy.xlsx](https://github.com/tkirk70/kickstarter-analysis/files/7533164/data-1-1-3-StarterBooka.-.Copy.xlsx)
 [data-1-1-3-StarterBooka - Copy.xlsx](https://github.com/tkirk70/kickstarter-analysis/files/7533171/data-1-1-3-StarterBooka.-.Copy.xlsx)
+
+Partial :+1:

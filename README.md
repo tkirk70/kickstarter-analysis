@@ -4,11 +4,11 @@
 
  
  
-https://github.com/tkirk70/kickstarter-analysis/Theater_Outcomes_vs_Launch.png
+https://github.com/tkirk70/kickstarter-analysis/Resources/Theater_Outcomes_vs_Launch.png
 
 ![Outcomes_vs_Goals png](https://user-images.githubusercontent.com/46324081/143794433-8f0330ee-dbcd-4786-a966-5aa9189e87ff.png)
 
 
-https://github.com/tkirk70/kickstarter-analysis/Outcomes_vs_Goals.png
+https://github.com/tkirk70/kickstarter-analysis/Resources/Outcomes_vs_Goals.png
 
 Maybe :+1:

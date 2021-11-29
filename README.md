@@ -4,4 +4,4 @@
 
 ![Outcomes_vs_Goals png](https://user-images.githubusercontent.com/46324081/143794433-8f0330ee-dbcd-4786-a966-5aa9189e87ff.png)
 
-Partial :+1:
+Maybe :+1:

@@ -8,6 +8,6 @@ https://github.com/tkirk70/kickstarter-analysis/blob/0ed097ec218ff777631415435cc
 ![Outcomes_vs_Goals png](https://user-images.githubusercontent.com/46324081/143794433-8f0330ee-dbcd-4786-a966-5aa9189e87ff.png)
 
 
-Resources/Outcomes_vs_Goals.png
+https://github.com/tkirk70/kickstarter-analysis/blob/15de663d3b840641a4c6ddf88242667ebfee2f93/Resources/Outcomes_vs_Goals.png
 
 Maybe :+1:
